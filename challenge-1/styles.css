@@ -1,0 +1,19 @@
+.div-container {
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+}
+.div-set {
+  display: flex;
+  justify-content: space-between;
+  width: 13rem;
+  height: 100%;
+}
+
+.div1,
+.div2,
+.div3 {
+  background-color: black;
+  height: 100%;
+  width: 6.25rem;
+}
