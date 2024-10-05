@@ -1,0 +1,36 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+}
+
+.div1 {
+  background-color: rgb(63, 63, 63);
+  height: 80%;
+  width: 20%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+.div2 {
+  background-color: black;
+  height: 50%;
+  width: 85%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+.div3 {
+  background-color: rgb(167, 167, 167);
+  height: 65%;
+  width: 80%;
+  margin-bottom: 5%;
+  margin-right: 5%;
+}
