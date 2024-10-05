@@ -1,0 +1,26 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.container-1,
+.container-2,
+.container-3 {
+  display: flex;
+  height: 6.25rem;
+}
+
+.container-1 {
+  flex-direction: row-reverse;
+}
+.container-2 {
+  justify-content: center;
+}
+
+.div1,
+.div2,
+.div3 {
+  background-color: black;
+  height: 100%;
+  width: 6.25rem;
+}
