@@ -28,9 +28,12 @@ body {
 .inner-container1 {
   align-items: flex-end;
 }
+.inner-container2 {
+  justify-content: flex-end;
+}
 .div2,
 .div3 {
   background-color: black;
   height: 70%;
-  width: 100%;
+  width: 87%;
 }

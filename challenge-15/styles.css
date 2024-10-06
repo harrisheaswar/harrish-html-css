@@ -1,0 +1,51 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  display: flex;
+  height: 53rem;
+  width: 65rem;
+  justify-content: space-between;
+}
+
+.set1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  width: 30rem;
+}
+
+.set2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: space-between;
+  height: 100%;
+  width: 30rem;
+}
+
+.div1 {
+  background-color: rgb(70, 70, 70);
+  height: 56%;
+  width: 100%;
+}
+
+.div3 {
+  background-color: black;
+  height: 15rem;
+  width: 15rem;
+}
+.div2 {
+  background-color: black;
+  height: 15rem;
+  width: 15rem;
+}
+
+.div4 {
+  background-color: rgb(70, 70, 70);
+  height: 56%;
+  width: 100%;
+}
